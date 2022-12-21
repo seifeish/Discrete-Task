@@ -1,0 +1,8 @@
+C:\Users\WALEED EISH\source\repos\Perfect numbers\Perfect numbers\bin\Debug\Perfect numbers.exe.config
+C:\Users\WALEED EISH\source\repos\Perfect numbers\Perfect numbers\bin\Debug\Perfect numbers.exe
+C:\Users\WALEED EISH\source\repos\Perfect numbers\Perfect numbers\bin\Debug\Perfect numbers.pdb
+C:\Users\WALEED EISH\source\repos\Perfect numbers\Perfect numbers\obj\Debug\Perfect numbers.csproj.AssemblyReference.cache
+C:\Users\WALEED EISH\source\repos\Perfect numbers\Perfect numbers\obj\Debug\Perfect numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\WALEED EISH\source\repos\Perfect numbers\Perfect numbers\obj\Debug\Perfect numbers.csproj.CoreCompileInputs.cache
+C:\Users\WALEED EISH\source\repos\Perfect numbers\Perfect numbers\obj\Debug\Perfect numbers.exe
+C:\Users\WALEED EISH\source\repos\Perfect numbers\Perfect numbers\obj\Debug\Perfect numbers.pdb
